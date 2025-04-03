@@ -4,5 +4,8 @@ function sum(a,b) {
 function min(a,b) {
     return a-b
 }
+function mult(a,b) {
+    return a*b
+}
 let sulution=sum(10,4)
 console.log(sulution);
